@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshuubnare&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshuubnare" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://deepanshu-ubnare-zbf84xj.gamma.site/](https://deepanshu-ubnare-zbf84xj.gamma.site/)
+- 🔗 Find my professional journey on LinkedIn [LinkedIn](https://linkedin.com/in/deepanshu-ubnare-176230260)
 
 - 📫 How to reach me **ubnaredeepanshu@gmail.com**
 
-- 🔗 Find my professional journey on LinkedIn [Find my LinkedIn](https://linkedin.com/in/deepanshu-ubnare-176230260)
+ - 👨‍💻 All of my projects are available at [https://deepanshu-ubnare-zbf84xj.gamma.site/](https://deepanshu-ubnare-zbf84xj.gamma.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
