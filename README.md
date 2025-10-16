@@ -11,12 +11,12 @@
 
 <h3 align="left">Find Me On:</h3>
 <p align="left">
+ <a href="https://www.leetcode.com/deepanshu_1064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepanshu_1064" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/deepanshu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="deepanshu10" height="30" width="40" /></a>
+ <a href="https://www.codechef.com/users/deepanshu34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepanshu34" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/ubnaredekgmg/" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="ubnaredekgmg" height="30" width="40" />
 </a>
-<a href="https://www.codechef.com/users/deepanshu34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepanshu34" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/deepanshu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="deepanshu10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepanshu_1064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepanshu_1064" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
