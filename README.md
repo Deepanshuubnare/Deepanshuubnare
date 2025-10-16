@@ -9,7 +9,7 @@
 
  - 👨‍💻 All of my projects are available at [https://deepanshu-ubnare-zbf84xj.gamma.site/](https://deepanshu-ubnare-zbf84xj.gamma.site/)
 
-<h3 align="left">Find Me On:</h3>
+<h3 align="left">My Coding Profiles:</h3>
 <p align="left">
  <a href="https://www.leetcode.com/deepanshu_1064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepanshu_1064" height="30" width="40" /></a>
  <a href="https://codeforces.com/profile/deepanshu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="deepanshu10" height="30" width="40" /></a>
